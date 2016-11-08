@@ -1,17 +1,17 @@
 {
-  "name": "cordova-plugin-ios-camera-permissions",
-  "version": "1.0.3",
-  "author": "Andreas Jacob <andreas@cordobo.de> (http://cordobo.com/)",
-  "description": "Cordova / PhoneGap Plugin Permission Settings for NSCameraUsageDescription and NSPhotoLibraryUsageDescription in iOS 10 by adding a declaration to the Info.plist file",
+  "name": "cordova-plugin-ios-ble-permissions",
+  "version": "1.0.0",
+  "author": "Tony Curwen <tony@curwen.net>",
+  "description": "Cordova / PhoneGap Plugin Permission Settings for NSBluetoothPeripheralUsageDescription in iOS 10 by adding a declaration to the Info.plist file",
   "cordova": {
-    "id": "cordova-plugin-ios-camera-permissions",
+    "id": "cordova-plugin-ios-ble-permissions",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cordobo/cordova-plugin-ios-camera-permissions.git"
+    "url": "git+https://github.com/cordobo/cordova-plugin-ios-ble-permissions.git"
   },
   "keywords": [
     "cordova",
@@ -19,8 +19,7 @@
     "app",
     "security",
     "permissions",
-    "nscamerausagedescription",
-    "nsphotolibraryusagedescription",
+    "nsbluetoothperipheralusagedescription",
     "ecosystem:cordova",
     "cordova-ios"
   ],
@@ -32,7 +31,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cordobo/cordova-plugin-ios-camera-permissions/issues"
+    "url": "https://github.com/cordobo/cordova-plugin-ios-ble-permissions/issues"
   },
-  "homepage": "https://github.com/cordobo/cordova-plugin-ios-camera-permissions#readme"
+  "homepage": "https://github.com/cordobo/cordova-plugin-ios-ble-permissions#readme"
 }
